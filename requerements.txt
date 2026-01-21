@@ -1,0 +1,7 @@
+Los requisitos para el correcto funcionamiento del CRUD son:
+1. descargar el proyecto del repositorio de GitHub.
+2. importar la base de datos en MySQL para el funcionamiento local.
+3. Abrir un entorno de desarrollo o en su defecto descargarlo, para el proyecto se recomienda Visual Studio Code por todas las funciones disponibles que nos brinda.
+4. abrir el proyecto en el entorno de desarrollo.
+5. abrir el terminal y ejecutar el proyecto de la siguiente manera: Python main.py
+6. Realizar las pruebas del CRUD y comprobar su correcto funcionamiento.
