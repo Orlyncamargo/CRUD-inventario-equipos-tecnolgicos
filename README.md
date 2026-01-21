@@ -9,6 +9,7 @@ El archivo inventario_tecnologico.sql es la base de datos que se utiliza en este
 
 Main: el main contiene el codigo principal que se debe ejecutar para el correcto funcionamiento del CRUD
 
+Los archivos contienen comentarios que explican las lineas de codigo.
 
 
 
